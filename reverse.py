@@ -12,5 +12,9 @@ def isPalindrome(num):
 print(reverse(1236))
 print(ispalindrome(1236))
 
+print(reverse(123))
+print(ispalindrome(1239))
+
+
 print(reverse(121))
 print(isPalindrome(121))
