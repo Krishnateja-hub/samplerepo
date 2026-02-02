@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 story 20
 x=11
 y=23
 z=30
+=======
+story 19
+a=10
+b=20
+c=30
+>>>>>>> Stashed changes
